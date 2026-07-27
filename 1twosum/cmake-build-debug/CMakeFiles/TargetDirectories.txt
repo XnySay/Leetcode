@@ -1,3 +1,0 @@
-D:/action/CS/C/Leecode/twosum/cmake-build-debug/CMakeFiles/twosum.dir
-D:/action/CS/C/Leecode/twosum/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/action/CS/C/Leecode/twosum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
